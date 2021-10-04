@@ -4,5 +4,5 @@ plot(x,y)
 
 
 median(x)
-
-#hi
+mean(x)
+#hello
