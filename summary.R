@@ -1,0 +1,2 @@
+summary(x)
+summray(y)
